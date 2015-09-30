@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://alant.github.io/octopress/sitemap.xml 
+Sitemap: http://ahtang.com/blog/sitemap.xml 
